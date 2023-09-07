@@ -1,6 +1,10 @@
 # This is a sample Python script.
+<<<<<<< HEAD
 #fegetgetVDFVD[DF;B;.DF.D]SFBDS].BDF
 print('i want to try some changes')
+=======
+
+>>>>>>> origin/main
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
