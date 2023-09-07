@@ -1,3 +1,8 @@
+# бмкущмбущмбзщкбщмубмщукзщукм
+print("What's happend?")
+
+
+
 # This is a sample Python script.
 #fegetgetVDFVD[DF;B;.DF.D]SFBDS].BDF
 print('i want to try some changes')
